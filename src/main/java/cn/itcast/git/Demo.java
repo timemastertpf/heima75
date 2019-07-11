@@ -16,5 +16,6 @@ public class Demo {
         System.out.println("hello 张三写的代码");
         System.out.println("hello 张三写的代码李四修改了");
         System.out.println("hello 张三写的代码然后又改了");
+        System.out.println("李四修改了bug");
     }
 }
