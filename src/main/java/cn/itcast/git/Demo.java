@@ -12,5 +12,6 @@ public class Demo {
         System.out.println("hello git2222dev");
         System.out.println("hello git2222master");
         System.out.println("hello git2222dev22");
+         System.out.println("hello git2222dev22模拟外人修改");
     }
 }
